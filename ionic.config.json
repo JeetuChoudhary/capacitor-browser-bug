@@ -1,0 +1,7 @@
+{
+  "name": "CapacitorBrowserBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
